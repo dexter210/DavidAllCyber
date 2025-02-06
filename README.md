@@ -3,12 +3,12 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Phishing Campaign</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - (https://github.com/dexter210/Phishing-Campaign)
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin
+[<img align="left" alt="David Oso | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+[linkedin]: https://linkedin.com/in/david-oso-
 
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
